@@ -1,33 +1,64 @@
-# 👋 Hi, I'm Jose Sandoval
+# Jose Sandoval
 
-💻 **PCEP Certified Python Developer**  
-🌟 Dedicated, dependable, and determined — always learning and improving my craft.  
-🚀 Passionate about automation, creative problem-solving, and continuous growth.
+Automation Engineer | Python | Selenium | Pytest | CI/CD
 
----
-
-### 🧠 Featured Project
-**[Python_Projects](https://github.com/je80sand/Python_Projects)**  
-My first GitHub project, built using Python 3 on macOS Monterey.  
-Includes `hello.py`, a simple script that prints a message confirming my setup is complete.
+I design and build production-style automation frameworks focused on stability, scalability, and clean architecture.
 
 ---
 
-### ⚙️ Technical Skills
-- 🐍 Python 3 (PCEP Certified)
-- ⚙️ Git & GitHub Version Control
-- 🧩 Visual Studio Code
-- 💻 macOS Terminal & Command Line
-- 🧠 Problem Solving & Debugging
+## 🔧 What I Specialize In
+
+• Selenium WebDriver automation  
+• Page Object Model (POM) architecture  
+• Pytest-based framework design  
+• Parallel execution (pytest-xdist)  
+• Automatic reruns for flake mitigation  
+• Headless CI automation (GitHub Actions)  
+• Failure diagnostics with screenshot capture  
+• Clean project structure (src/ + tests/)  
 
 ---
 
-### 📈 Goals
-I aim to use my Python skills in a role that challenges me, encourages learning,  
-and allows me to contribute to real-world development and automation projects.
+## 🚀 Featured Project
+
+### Selenium Automation Framework
+
+A production-style test automation framework built with:
+
+- Python 3.12+
+- Selenium WebDriver
+- Pytest
+- GitHub Actions CI
+- Parallel test execution
+- Environment-based configuration (dev/prod)
+- HTML reporting
+- Automatic screenshot capture on failure
+
+Repository:
+https://github.com/je80sand/selenium_automation_project
 
 ---
 
-### 📫 Connect with Me
-📧 Email: **your_je80sandoval@gmail.com**  
-🌐 GitHub: [github.com/je80sand](https://github.com/je80sand)
+## 🛠 Technical Stack
+
+Python  
+Selenium  
+Pytest  
+GitHub Actions  
+pytest-xdist  
+pytest-rerunfailures  
+pytest-html  
+Git  
+macOS / CLI  
+
+---
+
+## 📍 Location
+
+Union City, CA  
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/jose-sandoval-cjz
