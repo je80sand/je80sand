@@ -1,6 +1,7 @@
 👋 Jose Sandoval
 
 Python Automation Engineer | Backend APIs | FastAPI | Selenium | Pytest | CI/CD
+
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
