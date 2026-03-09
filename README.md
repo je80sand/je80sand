@@ -1,94 +1,139 @@
-# Jose Sandoval
+👋 Jose Sandoval
 
 Python Automation Engineer | Backend APIs | FastAPI | Selenium | Pytest | CI/CD
 
-I build practical Python automation systems focused on backend services, QA automation, monitoring tools, and real-world workflow automation.
+I build real-world Python automation systems including backend services, automation frameworks, monitoring tools, and workflow automation platforms.
 
-My projects are designed to demonstrate production-style engineering skills including API development, automation frameworks, background task execution, CI pipelines, system health monitoring, and clean modular architecture.---
-
-## What I Specialize In
-
-- Python automation engineering
-- FastAPI backend service development
-- Selenium WebDriver automation
-- Pytest-based test framework design
-- CI/CD pipelines with GitHub Actions
-- Automation task orchestration
-- Monitoring and health-check tooling
-- Clean modular Python project structure
-- API validation and service design
-- Background job execution patterns
----
-
-## Featured Project
-
-### Automation API Service
-
-A FastAPI-based automation platform built to run background automation tasks, expose health and metrics endpoints, track execution history, and simulate a lightweight internal automation service.
-
-**Highlights**
-- Background task execution
-- Task registry system
-- Run history tracking
-- Metrics endpoint
-- Health endpoint
-- Swagger API documentation
-- Pytest test suite
-- GitHub Actions CI pipeline
-
-**Repository**  
-[automation-api-service](https://github.com/je80sand/automation-api-service)
-
-## Additional Portfolio Projects
-
-### Selenium Automation Framework
-Production-style Selenium automation framework using Page Object Model architecture, parallel execution, environment-based configuration, and CI automation.
-
-[selenium_automation_project](https://github.com/je80sand/selenium_automation_project)
-
-### Infrastructure Health Tool
-Python CLI tool for monitoring system health metrics, analyzing logs, and generating structured infrastructure reports.
-
-[infra-health-tool](https://github.com/je80sand/infra-health-tool)
-
-### AT&T Field Tools
-Python automation and reporting project inspired by telecom field workflows, job tracking, and operational reporting.
-
-[att-field-tools](https://github.com/je80sand/att-field-tools)
-
-### Service Automation Toolkit
-Python CLI automation tool simulating service desk workflows with structured validation and clean reporting.
-
-[service-automation-toolkit](https://github.com/je80sand/service-automation-toolkit)
+My work focuses on clean architecture, reliability, and automation at scale.
 
 ---
 
-## Technical Stack
+🚀 Core Skills
 
-- Python
-- FastAPI
-- Selenium
-- Pytest
-- Pydantic
-- REST APIs
-- Git
-- GitHub Actions
-- CLI tool development
-- JSON data handling
-- Background task patterns
-- Monitoring / health-check tooling
-- CI/CD workflows
-- macOS / terminal workflow
+🐍 Python Automation Engineering
+⚙️ Backend API Development (FastAPI)
+🤖 Selenium WebDriver Automation
+🧪 Pytest Test Frameworks
+🔄 CI/CD Pipelines (GitHub Actions)
+📡 System Monitoring & Health Checks
+📊 Automation Metrics & Reporting
+🧱 Clean Modular Python Architecture
 
 ---
 
-## Location
+⭐ Flagship Project
 
-Union City, CA
+Automation API Service
+
+A FastAPI-based automation platform that runs background automation tasks, exposes system health endpoints, tracks execution history, and simulates an internal automation service.
+
+Features
+
+• FastAPI backend service
+• Background automation task execution
+• Task registry system
+• Execution history tracking
+• Metrics endpoint
+• Health monitoring endpoint
+• Swagger API documentation
+• Pytest automated testing
+• GitHub Actions CI pipeline
+
+🔗 Repository
+https://github.com/je80sand/automation-api-service
 
 ---
 
-## Connect
+🧠 Automation Portfolio
 
-LinkedIn: https://www.linkedin.com/in/jose-sandoval-ciz  
-GitHub: https://github.com/je80sand
+Selenium Automation Framework
+
+Production-style Selenium framework implementing Page Object Model architecture, parallel test execution, environment configuration, and CI automation.
+
+Tech Stack
+Python • Selenium • Pytest • GitHub Actions
+
+Repository
+https://github.com/je80sand/selenium_automation_project
+
+---
+
+Infrastructure Health Tool
+
+A Python CLI monitoring tool that collects system metrics, analyzes logs, and produces structured JSON health reports designed for automation pipelines.
+
+Tech Stack
+Python • CLI Tools • JSON Processing • Monitoring
+
+Repository
+https://github.com/je80sand/infra-health-tool
+
+---
+
+AT&T Field Tools
+
+A telecom-inspired Python automation system simulating field technician workflows including job tracking, reporting, and operational analytics.
+
+Tech Stack
+Python • Data Modeling • API-style Workflow Logic
+
+Repository
+https://github.com/je80sand/att-field-tools
+
+---
+
+Service Automation Toolkit
+
+A CLI automation system simulating service desk ticket workflows with validation, structured job records, and readable automation reports.
+
+Tech Stack
+Python • CLI Development • Workflow Automation
+
+Repository
+https://github.com/je80sand/service-automation-toolkit
+
+---
+
+🛠 Technical Stack
+
+Languages
+
+Python
+
+Frameworks
+
+FastAPI
+Selenium WebDriver
+Pytest
+Pydantic
+
+Automation & DevOps
+
+Git
+GitHub Actions
+CI/CD Pipelines
+Automation Frameworks
+Monitoring Tools
+
+Architecture
+
+REST APIs
+Background Task Execution
+Modular Project Structure
+Automation Services
+
+---
+
+📍 Location
+
+Union City, California
+
+---
+
+🤝 Connect
+
+LinkedIn
+https://www.linkedin.com/in/jose-sandoval-ciz
+
+GitHub
+https://github.com/je80sand
