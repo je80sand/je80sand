@@ -137,3 +137,17 @@ https://www.linkedin.com/in/jose-sandoval-ciz
 
 GitHub
 https://github.com/je80sand
+
+---
+
+# 📊 GitHub Stats
+
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=je80sand&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=je80sand&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=je80sand&theme=tokyo-night)
