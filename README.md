@@ -1,6 +1,12 @@
 👋 Jose Sandoval
 
 Python Automation Engineer | Backend APIs | FastAPI | Selenium | Pytest | CI/CD
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-yellow)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-orange)
+![Automation](https://img.shields.io/badge/Automation-Engineering-red)
 
 I build real-world Python automation systems including backend services, automation frameworks, monitoring tools, and workflow automation platforms.
 
